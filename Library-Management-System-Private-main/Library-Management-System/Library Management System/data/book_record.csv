@@ -1,0 +1,101 @@
+ID,Book Title,Author,Year Release,Available
+1,Little fox,kathy korn,2020
+2,Pride and Prejudice,Jane Austen,1813,true
+3,1984,George Orwell,1949,true
+4,The Great Gatsby,F. Scott Fitzgerald,1925,true
+5,The Catcher in the Rye,J.D. Salinger,1951,true
+6,Animal Farm,George Orwell,1945,false
+7,Brave New World,Aldous Huxley,1932,false
+8,Fahrenheit 451,Ray Bradbury,1953,false
+9,The Lord of the Rings,J.R.R. Tolkien,1954,false
+10,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,false
+11,The Hobbit,J.R.R. Tolkien,1937,true
+12,The Alchemist,Paulo Coelho,1988,true
+13,The Chronicles of Narnia,C.S. Lewis,1950-1956,true
+14,The Da Vinci Code,Dan Brown,2003,true
+15,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,true
+16,The Kite Runner,Khaled Hosseini,2003,false
+17,To the Lighthouse,Virginia Woolf,1927,false
+18,Alice's Adventures in Wonderland,Lewis Carroll,1865,false
+19,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,false
+20,The Odyssey,Homer,8th Century BC,false
+21,The Picture of Dorian Gray,Oscar Wilde,1890,true
+22,The Adventures of Tom Sawyer,Mark Twain,1876,true
+23,Moby-Dick,Herman Melville,1851,true
+24,The Shining,Stephen King,1977,true
+25,The Giver,Lois Lowry,1993,true
+26,The Hunger Games,Suzanne Collins,2008,false
+27,The Outsiders,S.E. Hinton,1967,false
+28,The Secret Garden,Frances Hodgson Burnett,1911,false
+29,War and Peace,Leo Tolstoy,1869,false
+30,Gone with the Wind,Margaret Mitchell,1936,false
+31,Little Women,Louisa May Alcott,1868-1869,true
+32,The Fault in Our Stars,John Green,2012,true
+33,The Sun Also Rises,Ernest Hemingway,1926,true
+34,The Old Man and the Sea,Ernest Hemingway,1952,true
+35,The Color Purple,Alice Walker,1982,true
+36,A Tale of Two Cities,Charles Dickens,1859,false
+37,The Divine Comedy,Dante Alighieri,1320,false
+38,The Lord of the Flies,William Golding,1954,false
+39,Wuthering Heights,Emily Bront?,1847,false
+40,Gulliver's Travels,Jonathan Swift,1726,false
+41,Les Mis?rables,Victor Hugo,1862,true
+42,Don Quixote,Miguel de Cervantes,1605,true
+43,The Sound and the Fury,William Faulkner,1929,true
+44,The Bell Jar,Sylvia Plath,1963,true
+45,Anna Karenina,Leo Tolstoy,1877,true
+46,The Count of Monte Cristo,Alexandre Dumas,1844,false
+47,The Diary of a Young Girl,Anne Frank,1947,false
+48,The Iliad,Homer,8th Century BC,false
+49,The Adventures of Huckleberry Finn,Mark Twain,1884,false
+50,Of Mice and Men,John Steinbeck,1937,false
+51,Slaughterhouse-Five,Kurt Vonnegut,1969,true
+52,The Metamorphosis,Franz Kafka,1915,true
+53,The Handmaid's Tale,Margaret Atwood,1985,true
+54,The Road,Cormac McCarthy,2006,true
+55,The Grapes of Wrath,John Steinbeck,1939,true
+56,The Little Prince,Antoine de Saint-Exup?ry,1943,false
+57,Crime and Punishment,Fyodor Dostoevsky,1866,false
+58,A Song of Ice and Fire,George R.R. Martin,1996-present,false
+59,The Scarlet Letter,Nathaniel Hawthorne,1850,false
+60,Dracula,Bram Stoker,1897,false
+61,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1892,true
+62,The Handmaid's Tale,Margaret Atwood,1985,true
+63,Alice in Wonderland,Mark Burgess,1865,true
+64,The Lord of the Rings,J.R.R. Tolkien,1954,true
+65,Harry Potter and the Goblet of Fire,J.K. Rowling,2000,true
+66,The Old Man and the Sea,Ernest Hemingway,1952,false
+67,The Hobbit,J.R.R. Tolkien,1937,false
+68,The Catcher in the Rye,J.D. Salinger,1951,false
+69,To Kill a Mockingbird,Harper Lee,1960,false
+70,Pride and Prejudice,Jane Austen,1813,false
+71,1984,George Orwell,1949,true
+72,The Great Gatsby,F. Scott Fitzgerald,1925,true
+73,Animal Farm,George Orwell,1945,true
+74,Brave New World,Aldous Huxley,1932,true
+75,Fahrenheit 451,Ray Bradbury,1953,true
+76,The Lord of the Rings,J.R.R. Tolkien,1954,false
+77,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,false
+78,The Hobbit,J.R.R. Tolkien,1937,false
+79,The Alchemist,Paulo Coelho,1988,false
+80,The Chronicles of Narnia,C.S. Lewis,1950-1956,false
+81,The Da Vinci Code,Dan Brown,2003,true
+82,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,true
+83,The Kite Runner,Khaled Hosseini,2003,true
+84,To the Lighthouse,Virginia Woolf,1927,true
+85,Alice's Adventures in Wonderland,Lewis Carroll,1865,true
+86,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,false
+87,The Odyssey,Homer,8th Century BC,false
+88,The Picture of Dorian Gray,Oscar Wilde,1890,false
+89,The Adventures of Tom Sawyer,Mark Twain,1876,false
+90,Moby-Dick,Herman Melville,1851,false
+91,The Shining,Stephen King,1977,true
+92,The Giver,Lois Lowry,1993,true
+93,The Hunger Games,Suzanne Collins,2008,true
+94,The Outsiders,S.E. Hinton,1967,true
+95,The Secret Garden,Frances Hodgson Burnett,1911,true
+96,War and Peace,Leo Tolstoy,1869,false
+97,Gone with the Wind,Margaret Mitchell,1936,false
+98,Little Women,Louisa May Alcott,1868-1869,false
+99,The Fault in Our Stars,John Green,2012,false
+100,The Sun Also Rises,Ernest Hemingway,1926

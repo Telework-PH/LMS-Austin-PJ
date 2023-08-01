@@ -1,0 +1,7 @@
+#ifndef LIBRARY_MANAGEMENT_SYSTEM_ADMIN_H
+#define LIBRARY_MANAGEMENT_SYSTEM_ADMIN_H
+
+#endif //LIBRARY_MANAGEMENT_SYSTEM_ADMIN_H
+
+void IntegerOnly();
+void AdminInterface();
