@@ -39,6 +39,7 @@ int main() {
     std::cout << "\t\t\t\t\t||\t   LIBRARY MANAGEMENT SYSTEM\n";
     std::cout << "\t\t\t\t\t==================================================\n";
     std::string user_name, user_pass;
+    wrong:
     std::cout << "\t\t\t\t\t|| Enter username: ";
     std::cin >> user_name;
     std::cout << "\t\t\t\t\t|| Enter password: ";
@@ -57,6 +58,7 @@ int main() {
         AdminInterface();
     } else {
         std::cout << "\t\t\t\t\t|| Login failed. Invalid username or password." << std::endl;
+        goto wrong;
     }
 
     return 0;
